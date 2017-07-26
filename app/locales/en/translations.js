@@ -347,8 +347,10 @@ export default {
     newRequestPlus: '+ new request',
     newUser: 'New User',
     ok: 'Ok',
+    print: 'Print',
     remove: 'Remove',
     returnButton: 'Return',
+    review: 'Review',
     search: 'Search',
     showAll: 'Show All',
     showFewer: 'Show Fewer',
@@ -479,7 +481,10 @@ export default {
     buttons: { newButton: '+ new imaging' },
     labels: {
       addNewVisit: '--Add New Visit--',
-      radiologist: 'Radiologist'
+      radiologist: 'Radiologist',
+      resultNotes: 'Result Notes',
+      requestedNotes: 'Requested Notes',
+      completedBy: 'Completed By'
     },
     messages: { noCompleted: 'No completed items found.' },
     pageTitle: 'Imaging Requests',
